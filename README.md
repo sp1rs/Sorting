@@ -6,8 +6,13 @@ Different type of sorting algorithm are:
   .
 
 
+Language:
+Java
+
+
 Author:
 Shashank Parekh
+
 
 Reference:
 
